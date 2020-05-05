@@ -1,0 +1,12 @@
+{
+    "name": "camila/programacion3_parcial",
+    "authors": [
+        {
+            "name": "Camila Rori",
+            "email": "camila.a.rori@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    }
+}
